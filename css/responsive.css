@@ -1,0 +1,318 @@
+/* Min-Width */
+
+
+/*=========================================================================*/
+
+@media (min-width: 1600px) {}
+
+
+/*=========================================================================*/
+
+@media (min-width: 1024px) {
+    nav.navbar .navbar-brand img.logo {
+        width: 100%;
+        margin-top: 4px;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        padding: 30px 20px;
+        font-weight: 600;
+        font-size: 16px;
+        letter-spacing: 1px;
+        font-weight: 400;
+    }
+    .form-group {
+        padding-bottom: 7px;
+        margin: 10px 0 0 0;
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (min-width: 768px) {
+    .navbar-left {
+        float: left !important;
+        margin-left: 2%;
+    }
+    .slogn {
+        display: block !important;
+    }
+}
+
+
+/* Max-Width */
+
+
+/*=========================================================================*/
+
+@media (max-width: 1600px) {
+    #map {
+        height: 300px;
+    }
+    #livechat-compact-container .chat-form{
+        top: 15vh;
+    }
+}
+
+@media (max-height: 900px) {
+    .slider-container {
+        height: 72vh;
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (max-width: 1440px) {
+    .slider-container {
+        height: 72vh;
+    }
+    .slogn a {
+        font-size: 18px !important;
+    }
+    .button-details{
+        width: 100px;
+        margin-top: 46px;
+    }
+    #livechat-compact-container .chat-form{
+        top: 15vh;
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (max-width: 1366px) {
+    #map {
+        height: 297px;
+    }
+    .coming-soon-projects .heading hr {
+        margin-left: 0;
+    }
+    .attr-nav > ul > li > a {
+        padding: 28px 15px;
+        font-size: 14px;
+    }
+    .slider-container {
+        height: 66.5vh;
+    }
+    .container-chat form {
+        position: relative;
+        width: 100%;
+        margin: 50px auto;
+        padding: 22px;
+        background: white;
+        text-align: center;
+    }
+    #livechat-compact-container .chat-form{
+        top: 15vh;
+    }
+    .container-chat button{
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 1360px) {
+    .slider-container {
+        height: 66.5vh;
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (max-width: 1200px) {}
+
+
+/*=========================================================================*/
+
+@media (max-width: 1024px) {}
+
+
+/*=========================================================================*/
+
+@media (max-width: 767px) {
+    body{
+        margin-left: 0 !important;
+    }
+    .attr-nav .search {
+        display: none;
+    }
+    footer.footer {
+        position: relative;
+    }
+    .bottom-section-wrap .container-fluid .row .content span {
+        font-size: 12px;
+        text-align: left: ;
+    }
+    .address .img {
+        float: none;
+        margin: 25px auto;
+        display: block;
+        text-align: center;
+    }
+    .coming-soon-projects .heading .projects {
+        line-height: 42px;
+        margin-left: 15px;
+    }
+    .coming-soon-projects .heading hr {
+        margin-left: 15px !important;
+    }
+    #livechat-compact-container.open {
+        right: 265px;
+        transition: .6s ease;
+    }
+    .container-chat {
+        position: relative;
+        width: 100%;
+        max-width: 265px;
+        margin: 0 auto;
+    }
+    #livechat-compact-container .chat-form {
+        top: 10%;
+    }
+    .button-details{
+        width: 110px;
+    }
+    .diljahan{
+        font-size: 12px !important;
+    }
+    .col-md-3.control-label{
+        padding-left: 10px;
+    }
+    .career-form{
+        padding: 40px 28px 40px 30px;
+    }
+
+    .send-button.career{
+        margin: 0 auto 0 25px;
+    }
+
+    .btn-chat a{
+        font-size: 12px;
+        padding: 24px 12px 6px;
+    }
+    .side {
+        width: 676px;
+        right: -676px;
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (max-width: 736px) {}
+
+
+/*=========================================================================*/
+
+@media (max-width: 667px) {}
+
+
+/*=========================================================================*/
+
+
+
+@media (max-width: 732px) {
+    .side {
+        width: 685px;
+        right: -685px;
+    }
+}
+
+@media (max-width: 736px) {
+    .side {
+        width: 736px;
+        right: -736px;
+    }
+}
+@media (max-width: 640px) {
+    .side {
+        width: 640px;
+        right: -640px;
+    }
+}
+
+
+@media (max-width: 568px) {
+    .side {
+        width: 568px;
+        right: -568px;
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (max-width: 414px) {
+    .subtitle-404 {
+        font-size: 15px;
+        font-weight: 700;
+        color: #699301;
+    }
+    .side {
+        width: 414px;
+        right: -414px;
+    }
+    #livechat-compact-container .chat-form {
+        top: 10%;
+    }
+}
+
+@media (max-width: 412px) {
+
+    .side {
+        width: 412px;
+        right: -412px;
+    }
+}
+
+@media (max-width: 384px) {
+    .side {
+        width: 384px;
+        right: -384px;
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (max-width: 375px) {
+    .side {
+        width: 375px;
+        right: -375px
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (max-width: 360px) {
+    .subtitle-404 {
+        font-size: 14px;
+        font-weight: 700;
+        color: #699301;
+    }
+    .side {
+        width: 360px;
+        right: -360px;
+    }
+}
+
+
+/*=========================================================================*/
+
+@media (max-width: 320px) {
+    .subtitle-404 {
+        font-size: 12px;
+        font-weight: 700;
+        color: #699301;
+    }
+    #livechat-compact-container .chat-form {
+        top: 5%;
+    }
+    .side {
+        width: 320px;
+        right: -320px;
+    }
+}
